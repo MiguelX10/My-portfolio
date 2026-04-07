@@ -62,5 +62,5 @@ Para evitar problemas con CORS al cargar recursos o abrir enlaces locales, es re
 **Miguel Cabral** - Full Stack Developer
 - Email: cabrito2012s@gmail.com
 - [GitHub](https://github.com/) 
-- [LinkedIn](https://linkedin.com/)
+- [LinkedIn](https://www.linkedin.com/in/miguel-cabral-castro-a4abb13a7)
 - Teléfono: +52 332 793 9021
